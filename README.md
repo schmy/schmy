@@ -1,8 +1,8 @@
-schmy here
+i schmy
 
 not a programmer
 
-apprentice master of ceremonies at Already Buttered Bread Co.
+sometime apprentice master of ceremonies at Already Buttered Bread Co.
 
 <!---
 don't read the comments
